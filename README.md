@@ -5,3 +5,4 @@
 - Por exemplo: ao digitar o valor 10, o programa retornará 23, que nada mais é que a soma de 3, 5, 6 e 9!
 - Na parte inferior é possível ver os números empregados no cálculo.
 - Feito por Guilherme Gabriel Fochezatto como Desafio 1 para vaga de desenvolvedor em flutter
+- Para testa-lo, basta abrir o arquivo index com o navegador de sua preferência.
